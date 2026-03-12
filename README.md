@@ -205,7 +205,7 @@ vicky = {
 
 📍 London, UK · Remote-friendly · No sponsorship required
 
-[![Book a Call](https://img.shields.io/badge/📅%20Book%20a%20Call-Calendly-006BFF?style=for-the-badge)](https://calendly.com)
+[![Book a Call](https://img.shields.io/badge/📅%20Book%20a%20Call-Calendly-006BFF?style=for-the-badge)](https://calendly.com/rajpoot-dugri)
 [![Email Me](https://img.shields.io/badge/📧%20Email%20Me-vicky.rajpoot.528@gmail.com-EA4335?style=for-the-badge)](mailto:vicky.rajpoot.528@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Let's%20Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/vicky-singhh-83b97a14b)
 
