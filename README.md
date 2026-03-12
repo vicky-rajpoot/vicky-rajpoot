@@ -35,7 +35,42 @@ vicky = {
 
 ## ⚡ What I Work With
 
-<div align="center">
+**AI / ML**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,flask,fastapi&perline=8" />
+  </a>
+</p>
+
+**Web & Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,ts,react,nodejs,django,graphql,html,css,jquery&perline=10" />
+  </a>
+</p>
+
+**Databases**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8" />
+  </a>
+</p>
+
+**DevOps & Cloud**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,github,githubactions,jenkins,nginx,linux&perline=10" />
+  </a>
+</p>
+
+**Tools & IDEs**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bash,vscode,postman,figma&perline=8" />
+  </a>
+</p>
+
+<!-- <div align="center">
 
 ### 🤖 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,7 +105,7 @@ vicky = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-</div>
+</div> -->
 
 ---
 
