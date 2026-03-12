@@ -22,7 +22,7 @@ vicky = {
     "location"    : "London, UK 🇬🇧",
     "education"   : "MSc Artificial Intelligence — Distinction 🎓",
     "superpower"  : "I build AI features AND ship them to production",
-    "experience"  : "3+ years across AI, Drupal, React & Cloud",
+    "experience"  : "5+ years across AI, Drupal, React & Cloud",
     "status"      : "🟢 Open to roles in London & Remote",
 }
 ```
